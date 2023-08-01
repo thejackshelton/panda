@@ -1,5 +1,14 @@
 # @pandacss/preset-base
 
+## 0.10.0
+
+### Patch Changes
+
+- 00d11a8b: Update conditions
+- 1972b4fa: Add opacity utility to base preset
+- Updated dependencies [a669f4d5]
+  - @pandacss/types@0.10.0
+
 ## 0.9.0
 
 ### Minor Changes
